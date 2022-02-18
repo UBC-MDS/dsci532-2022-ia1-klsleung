@@ -2,5 +2,6 @@ pandas
 gunicorn
 altair
 dash
+dcc
 dash_bootstrap_components
 plotly==4.14.3
